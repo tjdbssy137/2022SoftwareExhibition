@@ -27,4 +27,4 @@
 ---
 
 ### <게임 화면>
-<img src = https://user-images.githubusercontent.com/65931605/100345379-982de580-3025-11eb-8cb7-7eeea478995f.png height=400 width=350>
+<img src = https://user-images.githubusercontent.com/65931605/190886840-4525d699-6296-496e-bda2-4d22b3301076.JPG height=200 width=450>
