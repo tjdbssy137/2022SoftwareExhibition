@@ -9,25 +9,22 @@
  
 ---
 
-### <시작 화면>
-* Designer
-<img src = https://user-images.githubusercontent.com/65931605/100345377-96fcb880-3025-11eb-950e-a5add2f1c491.png height=400 width=350>
+## 게임 조작법
+* A, D로 좌우 이동
+* 마우스 스크롤 버튼을 통한 확대 및 축소
+* space바를 사용하여 어깨, 팔, 손목을 반복하여 조작
 
-* Blocks
-<img src = https://user-images.githubusercontent.com/65931605/100345975-76812e00-3026-11eb-8c60-59f484751faf.png height=250 width=550>
- 
+---
+
+## 진행 상황
+* 조작법 구현
+* 캐릭터 및 맵 디자인 구현
+* 파티클 구현
+
+## 앞으로 해야할 일
+* 원작 "La Madriguera" 룰에 맞도록 게임 내 Object 조정 및 수정
+
+---
+
 ### <게임 화면>
-* Designer
 <img src = https://user-images.githubusercontent.com/65931605/100345379-982de580-3025-11eb-8cb7-7eeea478995f.png height=400 width=350>
-
----
-
-### <실행 화면>
- <img src = https://user-images.githubusercontent.com/65931605/100345383-98c67c00-3025-11eb-8a86-102fc9eaa587.jpg height=300 width=250>
- <img src = https://user-images.githubusercontent.com/65931605/100345384-995f1280-3025-11eb-8595-3e7fe305e0f3.jpg height=300 width=250>
- 
----
-
-### <프로젝트 파일>
-[![Video Label](https://img.youtube.com/vi/_915LIrSaNI/0.jpg)](https://youtu.be/_915LIrSaNI)
-<https://github.com/tjdbssy137/favorite/files/5612207/default.zip>
